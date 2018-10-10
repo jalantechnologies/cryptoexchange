@@ -1,0 +1,252 @@
+{
+    "APPLICATION_THEME": "default",
+    "appaddrkey": "",
+    "appidkey": "CryptoExchange",
+    "appmenu": {
+        "tablet": {
+            "data": [
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "h5b2985b29e343e087ec9c232ca4a67f",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "df7fac4780fe43a4b8d787be1ff3a88c",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "bc692ea651c549a5a9a43b0f6f53a9c8",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "windows8": {
+                        "appBarButtonStyle": "No Style",
+                        "position": "BOTTOM_LEFT"
+                    },
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "b66f30a56d2e465b88dc6bc8c7ece2da",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "desktop": {
+            "data": [
+                {
+                    "kuid": "j68973c7c840493d89eb9c9280ab8e3c",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "kuid": "e6d8e91f797242f7a4ebfce36efb9817",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "kuid": "g678606c04114cb6af88594985f8c509",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "kuid": "j59ca88db487402ebdd92c5f6e1bc7fb",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "focusskin": null,
+        "osVersion": "iOS7",
+        "wType": "Appmenu",
+        "focusSkin": null,
+        "mobile": {
+            "data": [
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c531d239378d475db7d718735a5d183f",
+                    "icon": {
+                        "default": "option1.png"
+                    },
+                    "id": "appmenuitemid1",
+                    "title": "Item 1"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "ce6f542bacb24927aaf1f74b81314549",
+                    "icon": {
+                        "default": "option2.png"
+                    },
+                    "id": "appmenuitemid2",
+                    "title": "Item 2"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "c56fc78d2f574a4f954d83a3b99a8230",
+                    "icon": {
+                        "default": "option3.png"
+                    },
+                    "id": "appmenuitemid3",
+                    "title": "Item 3"
+                },
+                {
+                    "android": {
+                        "showAsFlag": 0
+                    },
+                    "kuid": "a210fe46bbba42efa802ffdf5e2def27",
+                    "icon": {
+                        "default": "option4.png"
+                    },
+                    "id": "appmenuitemid4",
+                    "title": "Item 4"
+                }
+            ]
+        },
+        "skin": null,
+        "osPlatform": ""
+    },
+    "appnamekey": "CryptoExchange",
+    "apppackagekey": "",
+    "appversionkey": "1.0.0",
+    "build": "debug",
+    "category": "app",
+    "cordovaModified": false,
+    "cordovaVersionInfo": {
+        "useGlobalCordova": false
+    },
+    "createdVizVersion": "8.0.0",
+    "createdgaversion": "8.0.0",
+    "currentgaversion": "8.2.21",
+    "defaulttheme": "defaultTheme",
+    "desktopwebbasefontsize": "12",
+    "enableCordova": false,
+    "enableCustomData": false,
+    "enableIdForAutomation": false,
+    "enableactionbar": false,
+    "isA11yConfigEnabled": false,
+    "isDpScaleFactor": true,
+    "isMVC": true,
+    "isNewAppWithRespectToAndroidPackageName": "",
+    "kfAppInfo": {
+        "397d3069-3359-4a9d-beba-00b4a9da957d": {
+            "id": "678d2516-9298-4708-b337-cd8f60426d55",
+            "baseId": "678d2516-9298-4708-b337-cd8f60426d55",
+            "version": "1.0"
+        }
+    },
+    "konyVizVersion": "8.2.21",
+    "mastersProperties": {
+        "mastersVersion": "2.0.0"
+    },
+    "mwaddrkey": "",
+    "mwhttpsportkey": "",
+    "mwportkey": "",
+    "nativeContainerProperties": {
+        "isEnableJSContainerAndroid": true,
+        "isModified": true,
+        "isEnableJSContaineriOS": true,
+        "isEnableJSContainer": true
+    },
+    "project.type": "js",
+    "project_version": "sprint31",
+    "referenceWidth": "375",
+    "startupformkey": "ha9e4ee909e34ae883998b3b06a5d10a",
+    "statusBarHidden": "false",
+    "vendornamekey": "JTC",
+    "wap_android240_fontsize": "12",
+    "wap_android320_fontsize": "12",
+    "wap_android360_fontsize": "12",
+    "wap_android400_fontsize": "12",
+    "wap_android440_fontsize": "12",
+    "wap_android480_fontsize": "12",
+    "wap_android640_fontsize": "12",
+    "wap_bb240_fontsize": "12",
+    "wap_bb320_fontsize": "12",
+    "wap_bb360_fontsize": "12",
+    "wap_bb400_fontsize": "12",
+    "wap_bb440_fontsize": "12",
+    "wap_bb480_fontsize": "12",
+    "wap_ip_fontsize": "12",
+    "wap_spaandroidtab_fontsize": "12",
+    "wap_spaandroidtabhdpi_fontsize": "12",
+    "wap_spaandroidtabldpi_fontsize": "12",
+    "wap_spaandroidtabmdpi_fontsize": "12",
+    "wap_spaipad_fontsize": "12",
+    "wap_spawindowstab_fontsize": "12",
+    "wap_winphone320_fontsize": "12",
+    "wap_winphone480_fontsize": "12",
+    "watchos_companionSettings2x29": "",
+    "watchos_companionSettings3x29": "",
+    "watchos_homeScreen40": "",
+    "watchos_longlooknotificationicon_42": "",
+    "watchos_notificationcentericon_38": "",
+    "watchos_notificationcentericon_42": "",
+    "watchos_shortlooknotificationicon_38": "",
+    "watchos_shortlooknotificationicon_42": "",
+    "watchos_watchMarketing1x": "",
+    "winmobileguidkey": "",
+    "enableResponsive": false,
+    "accountCloudGuid": "397d3069-3359-4a9d-beba-00b4a9da957d",
+    "projectCloudGuid": "ee493fc5-6a17-41d1-862d-275136c40ef3",
+    "prototype": {
+        "PublishMode": "public",
+        "resourceId": "9bc9f797-168d-4eb9-b16f-b55ba233d2ec",
+        "createdBy": "Jaikishan Jalan",
+        "shareGuid": "3MNML",
+        "createdOn": "2018-10-01T07:59:52.027Z",
+        "createdById": "b18fe4da-6734-43ef-9ef3-5fa526a206c2"
+    }
+}

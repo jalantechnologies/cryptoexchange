@@ -1,0 +1,34 @@
+{
+    "AS_Form_c4fc3e76c05e41dfafe68a3bd8dab53d": {
+        "id": "AS_Form_c4fc3e76c05e41dfafe68a3bd8dab53d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c26b2185be21473f8033b8704e0cbf8b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___j6f30c9fe3144766a771716bd5221552",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "frmDashboard",
+            "widgetId": "lblTitle",
+            "propertyName": "text",
+            "propertyValue": "blah",
+            "itemKUID": "c26b2185be21473f8033b8704e0cbf8b",
+            "widgetKUID": "cb4398f3ad10484a874d6d22586a100c",
+            "isSkinProperty": false,
+            "wType": "Label",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.lblTitle"
+        }]
+    }
+}
